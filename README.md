@@ -8,3 +8,4 @@ In my small project, I have added below plots:
 3. India recovery rate day-by-day.
 4. India recovery rate vs death rate.
 5. Daily new cases in India.
+6. Daily new cases VS Daily new recoveries
